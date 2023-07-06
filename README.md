@@ -10,6 +10,10 @@ A personal wallet app made using Flutter Framework, to keep track of your expens
 
 [![Screenshot-20230706-193807.png](https://i.postimg.cc/wvp7rbpV/Screenshot-20230706-193807.png)](https://postimg.cc/TytdL0hL)
 
+[![Screenshot-20230706-193842.png](https://i.postimg.cc/L5MfS8Fr/Screenshot-20230706-193842.png)](https://postimg.cc/qhjgX0RL)
+
+[![Screenshot-20230706-193902.png](https://i.postimg.cc/BnZzsqqL/Screenshot-20230706-193902.png)](https://postimg.cc/Ln7D3Fg2)
+
 
 
 ## Getting Started
