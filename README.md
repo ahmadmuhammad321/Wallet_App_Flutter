@@ -1,6 +1,16 @@
-# wallet_app
+# Wallet_App
 
-A new Flutter project.
+A personal wallet app made using Flutter Framework, to keep track of your expenses, using Hive as Local Database.
+
+## Screenshots
+
+[![Screenshot-20230706-193730.png](https://i.postimg.cc/Rh2JVCt7/Screenshot-20230706-193730.png)](https://postimg.cc/CnHxcgm5)
+
+[![Screenshot-20230706-193737.png](https://i.postimg.cc/rFFqK2jW/Screenshot-20230706-193737.png)](https://postimg.cc/XXhRzhT7)
+
+[![Screenshot-20230706-193807.png](https://i.postimg.cc/wvp7rbpV/Screenshot-20230706-193807.png)](https://postimg.cc/TytdL0hL)
+
+
 
 ## Getting Started
 
